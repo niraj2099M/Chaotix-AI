@@ -46,7 +46,7 @@ sudo systemctl start redis-server
 
 ### 4. Set environment variables: Add a .env file and add the following
 - STABILITY_API_KEY: Your Stability AI API key
-- STABILITY_API_URL:
+- STABILITY_API_URL: Your Stability API URL
 
 ### 5. Django Setup
 Migrate the database:
