@@ -21,8 +21,9 @@ This Django project leverages Celery for parallel image generation using the Sta
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Mohit-majumdar/Chaotix-text-to-image-assessment/.git
-cd Chaotix-text-to-image-assessment/
+gh repo clone niraj2099M/Chaotix-AI
+cd Chaotix-AI/
+
 ```
 
 ### 2. Install Dependencies
